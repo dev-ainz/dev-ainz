@@ -7,13 +7,13 @@ I'm Ainz, a Software Developer focused on building **efficient, robust, high-per
 - 🕹️ Interested in systems, game tech, and low-level details
 - 🌎 Based in Brazil | PT-BR (native) + EN (advanced)
 
----
+<br>
 
 ## What I do
 
 - 🗺️ Right now I'm working on [Wplace - Paint The World](https://wplace.live) a web-game where people can paint the whole world map together using pixels.
 
----
+<br>
 
 ## Tech stack
 
@@ -39,13 +39,11 @@ I'm Ainz, a Software Developer focused on building **efficient, robust, high-per
 - Adobe Photoshop, Lightroom, Premiere, After Effects
 - Microsoft Office
 
----
+<br>
 
 ## GitHub stats (because why not)
 
 ![Anurag's GitHub stats](https://github-readme-stats-alpha-eight-71.vercel.app/api?username=dev-ainz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark&include_all_commits=true&cache_seconds=0)
-
----
 
 ### Collaboration
 

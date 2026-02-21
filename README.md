@@ -7,8 +7,6 @@ I'm Ainz, a Software Developer focused on building **efficient, robust, high-per
 - 🕹️ Interested in systems, game tech, and low-level details
 - 🌎 Based in Brazil | PT-BR (native) + EN (advanced)
 
-![Harlok's WakaTime stats](https://github-readme-stats-alpha-eight-71.vercel.app/api/wakatime?username=dev_ainz&theme=github_dark&cache_seconds=0&range=all_time&v=4)
-
 <br>
 
 ## What I do

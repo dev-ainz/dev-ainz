@@ -18,12 +18,8 @@ I'm Ainz, a Software Developer focused on building **efficient, robust, high-per
 ## Tech stack
 
 ### Languages
-- C, C++, C#, Golang, Python
-- Java, JavaScript, TypeScript
-- HTML5, CSS3
-- Bash/Shell
 
-![Top Langs](https://github-readme-stats-alpha-eight-71.vercel.app/api/top-langs/?username=dev-ainz&theme=github_dark&cache_seconds=0)
+![Harlok's WakaTime stats](https://github-readme-stats-alpha-eight-71.vercel.app/api/wakatime?username=dev_ainz&theme=github_dark&cache_seconds=0&range=all_time&v=4)
 
 ### Web
 - React.js, Node.js, REST APIs, Vite, Responsive Web Design
